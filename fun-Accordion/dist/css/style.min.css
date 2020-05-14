@@ -1,0 +1,2 @@
+*{margin:0;padding:0;-webkit-box-sizing:border-box;box-sizing:border-box}.container{display:-ms-grid;display:grid;-ms-grid-columns:(1fr)[3];grid-template-columns:repeat(3, 1fr);grid-gap:0.5em}.container .card{padding:0.4em;text-align:center}.twitter{background-color:#429bd6}.facebook{background-color:#4267b2}.linkedIn{background-color:#4267b2}ion-icon{color:#fff}.share{padding:0.4em;color:#fff;font-family:'Open Sans', sans-serif}
+/*# sourceMappingURL=style.min.css.map */

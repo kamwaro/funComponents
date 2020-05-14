@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.5em;
+
+  .card {
+    padding: 0.4em;
+    text-align: center;
+  }
+}
+
+.twitter {
+  background-color: rgb(66, 155, 214);
+}
+
+.facebook {
+  background-color: rgb(66, 103, 178);
+}
+
+.linkedIn {
+  background-color: rgb(66, 103, 178);
+}
+
+ion-icon {
+  color: #fff;
+}
+
+.share {
+  padding: 0.4em;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
